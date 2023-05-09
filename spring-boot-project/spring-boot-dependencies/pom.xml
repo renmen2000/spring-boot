@@ -60,7 +60,7 @@
 		<embedded-mongo.version>2.2.0</embedded-mongo.version>
 		<flyway.version>5.2.4</flyway.version>
 		<freemarker.version>2.3.28</freemarker.version>
-		<elasticsearch.version>6.6.1</elasticsearch.version>
+		<elasticsearch.version>7.17.1</elasticsearch.version>
 		<glassfish-el.version>3.0.2</glassfish-el.version>
 		<glassfish-jaxb.version>2.3.2</glassfish-jaxb.version>
 		<groovy.version>2.5.6</groovy.version>
@@ -73,7 +73,7 @@
 		<hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
 		<hikaricp.version>3.3.1</hikaricp.version>
 		<hsqldb.version>2.4.1</hsqldb.version>
-		<htmlunit.version>2.34.1</htmlunit.version>
+		<htmlunit.version>2.63.0</htmlunit.version>
 		<httpasyncclient.version>4.1.4</httpasyncclient.version>
 		<httpclient.version>4.5.7</httpclient.version>
 		<httpcore.version>4.4.11</httpcore.version>
@@ -122,7 +122,7 @@
 		<jetty.version>9.4.15.v20190215</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.5.35.1</jetty-el.version>
-		<jetty-reactive-httpclient.version>1.0.3</jetty-reactive-httpclient.version>
+		<jetty-reactive-httpclient.version>1.1.14</jetty-reactive-httpclient.version>
 		<jmustache.version>1.14</jmustache.version>
 		<jna.version>4.5.2</jna.version>
 		<joda-time.version>2.10.1</joda-time.version>
@@ -202,7 +202,7 @@
 		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>9.0.17</tomcat.version>
+		<tomcat.version>9.0.72</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.10</unboundid-ldapsdk.version>
 		<undertow.version>2.0.19.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
