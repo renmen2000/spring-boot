@@ -34,10 +34,10 @@
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
 		<!-- Dependency versions -->
-		<activemq.version>5.15.9</activemq.version>
+		<activemq.version>5.15.10</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.73</appengine-sdk.version>
-		<artemis.version>2.6.4</artemis.version>
+		<artemis.version>2.19.1</artemis.version>
 		<aspectj.version>1.9.2</aspectj.version>
 		<assertj.version>3.12.1</assertj.version>
 		<atomikos.version>4.0.6</atomikos.version>
@@ -60,7 +60,7 @@
 		<embedded-mongo.version>2.2.0</embedded-mongo.version>
 		<flyway.version>5.2.4</flyway.version>
 		<freemarker.version>2.3.28</freemarker.version>
-		<elasticsearch.version>6.6.1</elasticsearch.version>
+		<elasticsearch.version>7.17.7</elasticsearch.version>
 		<glassfish-el.version>3.0.2</glassfish-el.version>
 		<glassfish-jaxb.version>2.3.2</glassfish-jaxb.version>
 		<groovy.version>2.5.6</groovy.version>
@@ -137,10 +137,10 @@
 		<jtds.version>1.3.1</jtds.version>
 		<junit.version>4.12</junit.version>
 		<junit-jupiter.version>5.4.0</junit-jupiter.version>
-		<kafka.version>2.1.1</kafka.version>
+		<kafka.version>2.2.2</kafka.version>
 		<kotlin.version>1.3.21</kotlin.version>
 		<lettuce.version>5.1.6.RELEASE</lettuce.version>
-		<liquibase.version>3.6.3</liquibase.version>
+		<liquibase.version>3.8.1</liquibase.version>
 		<log4j2.version>2.11.2</log4j2.version>
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.18.6</lombok.version>
@@ -171,7 +171,7 @@
 		<rxjava2.version>2.2.8</rxjava2.version>
 		<selenium.version>3.141.59</selenium.version>
 		<selenium-htmlunit.version>2.34.0</selenium-htmlunit.version>
-		<sendgrid.version>4.3.0</sendgrid.version>
+		<sendgrid.version>4.4.3</sendgrid.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.26</slf4j.version>
 		<snakeyaml.version>1.24</snakeyaml.version>
@@ -179,7 +179,7 @@
 		<!-- deprecated in favor of "spring-framework.version" -->
 		<spring.version>5.2.0.BUILD-SNAPSHOT</spring.version>
 		<spring-amqp.version>2.1.4.RELEASE</spring-amqp.version>
-		<spring-batch.version>4.1.1.RELEASE</spring-batch.version>
+		<spring-batch.version>4.1.3.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.5.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Moore-M2</spring-data-releasetrain.version>
 		<spring-framework.version>${spring.version}</spring-framework.version>
