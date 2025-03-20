@@ -37,7 +37,7 @@
 		<activemq.version>5.15.9</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.73</appengine-sdk.version>
-		<artemis.version>2.6.4</artemis.version>
+		<artemis.version>2.39.0</artemis.version>
 		<aspectj.version>1.9.2</aspectj.version>
 		<assertj.version>3.12.1</assertj.version>
 		<atomikos.version>4.0.6</atomikos.version>
@@ -192,7 +192,7 @@
 		<spring-retry.version>1.2.4.RELEASE</spring-retry.version>
 		<spring-security.version>5.1.4.RELEASE</spring-security.version>
 		<spring-session-bom.version>Bean-SR3</spring-session-bom.version>
-		<spring-ws.version>3.0.7.RELEASE</spring-ws.version>
+		<spring-ws.version>4.0.12</spring-ws.version>
 		<sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
 		<statsd-client.version>3.1.0</statsd-client.version>
 		<sun-mail.version>${jakarta-mail.version}</sun-mail.version>
